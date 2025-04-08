@@ -23,7 +23,7 @@ def analizar_y_enviar():
         "*Pick:* Más de 75.5 puntos totales\n"
         "*Stake:* 8/10\n"
         "*Confianza:* Alta\n"
-        "*Probabilidad estimada:* 73%"
+        "*Probabilidad estimada: 73%*"
     )
     enviar_mensaje(pick)
 
